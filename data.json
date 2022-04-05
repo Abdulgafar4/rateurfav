@@ -1,0 +1,28 @@
+{
+  "movies": [
+    {
+      "id": "1",
+      "title": "The Shawshank Redemption",
+      "duration": "3:6",
+      "rating": 9.3
+    },
+    {
+      "title": "The Nun",
+      "rating": "3",
+      "duration": "6",
+      "id": "qMTpMqO"
+    },
+    {
+      "title": "The gun",
+      "rating": "3",
+      "duration": "7",
+      "id": "okunVSs"
+    },
+    {
+      "title": "The Good ",
+      "rating": "3",
+      "duration": "6",
+      "id": "AOiiemA"
+    }
+  ]
+}
