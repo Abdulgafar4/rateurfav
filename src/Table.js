@@ -10,7 +10,7 @@ function Table() {
   const onSearch = () => {
     // debugger
     const filterTable = movies.filter(o => o.title  === (title === "" ? o.title : title));
-    setMovies(filterTable);
+    setSearch(filterTable);
      } 
 
      useEffect(() => {
